@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "role": "SQL for Data Science",
+      "organisation": "Coursera",
+      "experiences": [
+        "Learnt how queries wworks",
+        "Learnt to manage huge datasets"
+      ]
+    },
+
+    {
+        "id": 2,
+        "role": "Proffesional Certificate in Java Programming",
+        "organisation": "Udemy",
+        "experiences": [
+          "Learnt about features of Java",
+          "Programming in Java with data structures and algorithm"
+        ]
+      },
+
+      {
+        "id": 3,
+        "role": "HTML, JavaScript and Bootstrap(Course)",
+        "organisation": "Udemy"
+      },
+
+      {
+        "id": 4,
+        "role": "Developer Job Simulation",
+        "organisation": "Forage",
+        "experiences": [
+          "Worked on javascript and debug it",
+          "With Accenture"
+        ]
+      },
+
+      {
+        "id": 5,
+        "role": "Front-end Software Engineering Job Simulation",
+        "organisation": "Forage",
+        "experiences": [
+          "Built a UI Application using Backpack",
+          "With Skyscanner"
+        ]
+      }
+      
+]
