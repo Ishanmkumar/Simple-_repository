@@ -7,9 +7,9 @@ const Home = () => {
   const typedRef = useRef(null)
   useEffect(() => {
     const options = {
-      strings:["Welcome to my profile","My name is Ishan M Kumar","I'm a full stack developer","Android Developer"],
-      typeSpeed:50,
-      backSpeed:50,
+      strings:["Welcome to my profile","My name is Ishan M Kumar","I'm a full stack developer","I'm a Android Developer"],
+      typeSpeed:30,
+      backSpeed:30,
       loop:true
 
     }
